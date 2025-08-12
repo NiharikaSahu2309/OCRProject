@@ -1,0 +1,213 @@
+[
+    {
+        "invoice_number": "",
+        "date": "",
+        "company": "Park Fax +91 22 2520-4771 Account Number : 57500000268790",
+        "amount": "",
+        "items": [],
+        "page_number": 1,
+        "filename": "BYK INVOICE.pdf",
+        "raw_text": "Internal Invoice\n\nPage 1 von 1\n\nPlease always specify\nCustomer No.: 8000310000\n\nInternal invoice 9019015804 Date: 28.07.2025\n\nBYK USA Inc., 524 South Cherry Street, Wallingford, CT 06492\n\nBYK-Chemie GmbH\n\nAbelstr. 45\n\n46483 Wesel\n\nFederal Republic of Germany\n\nforwarding address\n\nBYK Chemie GmbH\nDistribution Center\nEmmelsumer Str. 221\n\n46485 Wesel\n\nFederal Republic of Germany\n\nYour order\n\nDate Mr. Gunjal, Pravin\n\nDelivery terms:\n\n04.06.2025\nCPT Rotterdam (Incoterms 2020)\n\nTel: 22 6820 4765 Fax: -4771\nOperations.BYK.India@altana.com\n\nShipping type: Stock Transfers\nPlanned goods movement date:\ninternal order No.: 4501547983\nMaterial Qty. Packing total Kg Netto Product name Total value/INR\n122530 400 Bags 1,0 400,0 RAW.200306 599,74 239.896,00\nSum items 239.896 ,00\n400 Units Kg Netto 400,0\nKg Brutto 420,0\nTotal amount INR 239.896 ,00\n\nPayment conditions:\nWithin 30 days Due net\n\nOur general terms and conditions of sale and delivery are valid, see www.byk.com or available on request.\n\nBYK India Pvt. Ltd.\n\n403, 4th Floor, Quantum Tel +91 22 2520-4713 Bank : HDFC Bank Ltd\n\nHiranandani Business Park Fax +91 22 2520-4771 Account Number : 57500000268790\nGhodbunder Road, Thane info@byk.com IFSC Code : HDFC0001227\nMumbai 400 607, India www.byk.com SWIFT Code : HDFCINBB\n",
+        "_parsed_lines": [
+            {
+                "filename": "BYK INVOICE.pdf",
+                "invoice_number": "",
+                "invoice_date": "",
+                "material_code": "122530",
+                "product_name": "RAW.200306",
+                "description": "122530 400 Bags 1,0 400,0 RAW.200306 599,74 239.896,00",
+                "packing": "Bags",
+                "qty": 400.0,
+                "qty_uom": null,
+                "total_kg_netto": 4000.0,
+                "currency": "INR",
+                "unit_price": 59974.0,
+                "amount_inr": 239.896,
+                "confidence": 0.9,
+                "raw_line": "122530 400 Bags 1,0 400,0 RAW.200306 599,74 239.896,00"
+            }
+        ]
+    },
+    {
+        "invoice_number": "",
+        "date": "",
+        "company": "Park Fax +91 22 2520-4771 Account Number : 57500000268790",
+        "amount": "",
+        "items": [],
+        "page_number": 2,
+        "filename": "BYK INVOICE.pdf",
+        "raw_text": "Packing List\n\nPage 1 by 1\n\nPlease repeat in correspondence Number: 84236674\n\nustomer number: 8000310300 Date: 09.07.2025\nBYK India Pvt.Ltd Customer\nBYK Chemie GmbH BYK-Chemie GmbH - BCDC\nDistribution Center Emmelsumer Str. 221\nEmmelsumer Str. 221 46485 WESEL\n46485 WESEL FEDERAL REPUBLIC OF GERMANY\nFEDERAL REPUBLIC OF GERMANY\n\nYour order Date BYK - Order handling\n\nGunjal, Pravin, Tel:22 6820-4765\nInternal no.: 4501547983\n\nDelivery: 23.08.2025\nDate of dispatch ex warehouse: 23.08.2025\nDelivery terms: CPT Rotterdam (Incoterms 2020)\nMode of shipment: Stock Transfers\n\nMaterial Qty Packaging Kg Net Product name Tot.kg Net Tot.kg Brutto\nQty Lot number\n122530 400.000 Bags 1.0 RAW.200306 400.0 420.0\n\n400.000 xX 12/2024/0002695242\n\nThis product is subject to the\nEG-DUAL-USE regulation.\n\nTotal Unit 400.0 KG Net 420.0 KG Gross\n400 Bags 400.0 KG Net 420.0 KG Gross\n\nNO OF PALLETS - 1\n\nBYK India Pvt. Ltd.\n\n403, 4th Floor, Quantum Tel +91 22 2520-4713 Bank : HDFC Bank Ltd\nHiranandani Business Park Fax +91 22 2520-4771 Account Number : 57500000268790\nGhodbunder Road, Thane info@byk.com IFSC Code : HDFC0001227\n\nMumbai 400 607, India www.byk.com SWIFT Code : HDFCINBB\n",
+        "_parsed_lines": [
+            {
+                "filename": "BYK INVOICE.pdf",
+                "invoice_number": "",
+                "invoice_date": "",
+                "material_code": "84236674",
+                "hs_code": null,
+                "qty": null,
+                "qty_uom": null,
+                "currency": null,
+                "amount_detected": 74.0,
+                "amount_inr": null,
+                "amount_usd": null,
+                "confidence": 0.5,
+                "raw_line": "Please repeat in correspondence Number: 84236674"
+            },
+            {
+                "filename": "BYK INVOICE.pdf",
+                "invoice_number": "",
+                "invoice_date": "",
+                "material_code": "8000310300",
+                "hs_code": null,
+                "qty": null,
+                "qty_uom": null,
+                "currency": null,
+                "amount_detected": 5.0,
+                "amount_inr": null,
+                "amount_usd": null,
+                "confidence": 0.5,
+                "raw_line": "ustomer number: 8000310300 Date: 09.07.2025"
+            },
+            {
+                "filename": "BYK INVOICE.pdf",
+                "invoice_number": "",
+                "invoice_date": "",
+                "material_code": "46485",
+                "hs_code": null,
+                "qty": null,
+                "qty_uom": null,
+                "currency": null,
+                "amount_detected": 85.0,
+                "amount_inr": null,
+                "amount_usd": null,
+                "confidence": 0.5,
+                "raw_line": "Emmelsumer Str. 221 46485 WESEL"
+            },
+            {
+                "filename": "BYK INVOICE.pdf",
+                "invoice_number": "",
+                "invoice_date": "",
+                "material_code": "46485",
+                "hs_code": null,
+                "qty": null,
+                "qty_uom": null,
+                "currency": null,
+                "amount_detected": 85.0,
+                "amount_inr": null,
+                "amount_usd": null,
+                "confidence": 0.5,
+                "raw_line": "46485 WESEL FEDERAL REPUBLIC OF GERMANY"
+            },
+            {
+                "filename": "BYK INVOICE.pdf",
+                "invoice_number": "",
+                "invoice_date": "",
+                "material_code": "4501547983",
+                "hs_code": null,
+                "qty": null,
+                "qty_uom": null,
+                "currency": null,
+                "amount_detected": 3.0,
+                "amount_inr": null,
+                "amount_usd": null,
+                "confidence": 0.5,
+                "raw_line": "Internal no.: 4501547983"
+            },
+            {
+                "filename": "BYK INVOICE.pdf",
+                "invoice_number": "",
+                "invoice_date": "",
+                "material_code": "122530",
+                "hs_code": null,
+                "qty": 400.0,
+                "qty_uom": "Bags",
+                "currency": null,
+                "amount_detected": 420.0,
+                "amount_inr": null,
+                "amount_usd": null,
+                "confidence": 0.7,
+                "raw_line": "122530 400.000 Bags 1.0 RAW.200306 400.0 420.0"
+            },
+            {
+                "filename": "BYK INVOICE.pdf",
+                "invoice_number": "",
+                "invoice_date": "",
+                "material_code": "57500000268790",
+                "hs_code": null,
+                "qty": null,
+                "qty_uom": null,
+                "currency": null,
+                "amount_detected": 90.0,
+                "amount_inr": null,
+                "amount_usd": null,
+                "confidence": 0.5,
+                "raw_line": "Hiranandani Business Park Fax +91 22 2520-4771 Account Number : 57500000268790"
+            },
+            {
+                "filename": "BYK INVOICE.pdf",
+                "invoice_number": "",
+                "invoice_date": "",
+                "material_code": "HDFC0001227",
+                "hs_code": null,
+                "qty": null,
+                "qty_uom": null,
+                "currency": null,
+                "amount_detected": 7.0,
+                "amount_inr": null,
+                "amount_usd": null,
+                "confidence": 0.5,
+                "raw_line": "Ghodbunder Road, Thane info@byk.com IFSC Code : HDFC0001227"
+            }
+        ],
+        "_discarded_lines": [
+            {
+                "raw_line": "Page 1 by 1",
+                "reason": "no_match"
+            },
+            {
+                "raw_line": "Distribution Center Emmelsumer Str. 221",
+                "reason": "no_match"
+            },
+            {
+                "raw_line": "Gunjal, Pravin, Tel:22 6820-4765",
+                "reason": "no_match"
+            },
+            {
+                "raw_line": "Delivery: 23.08.2025",
+                "reason": "no_match"
+            },
+            {
+                "raw_line": "Date of dispatch ex warehouse: 23.08.2025",
+                "reason": "no_match"
+            },
+            {
+                "raw_line": "Delivery terms: CPT Rotterdam (Incoterms 2020)",
+                "reason": "no_match"
+            },
+            {
+                "raw_line": "400.000 xX 12/2024/0002695242",
+                "reason": "no_match"
+            },
+            {
+                "raw_line": "Total Unit 400.0 KG Net 420.0 KG Gross",
+                "reason": "no_match"
+            },
+            {
+                "raw_line": "400 Bags 400.0 KG Net 420.0 KG Gross",
+                "reason": "no_match"
+            },
+            {
+                "raw_line": "NO OF PALLETS - 1",
+                "reason": "no_match"
+            },
+            {
+                "raw_line": "403, 4th Floor, Quantum Tel +91 22 2520-4713 Bank : HDFC Bank Ltd",
+                "reason": "no_match"
+            },
+            {
+                "raw_line": "Mumbai 400 607, India www.byk.com SWIFT Code : HDFCINBB",
+                "reason": "no_match"
+            }
+        ]
+    }
+]

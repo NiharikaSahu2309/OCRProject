@@ -1,0 +1,264 @@
+[
+    {
+        "invoice_number": "",
+        "date": "",
+        "company": "",
+        "amount": "",
+        "items": [],
+        "page_number": 1,
+        "filename": "JYOTI KHEX-200234-2025.pdf",
+        "raw_text": "EXPORT INVOICE\n\nPorter: crate lice Invoice No.: KHEX-200234-2025\nJyoti World Private Limited\n\n(Formerly Known As Jyoti Plastic Works Pvt. Ltd.) Date: 06.08.2025\nSurvey No.178/1 & 178/1/Paiky-1,\nBhramdev Industrial Park,\n\nPardi Paria Road, Village - Khadki, TO THE ORDER OF TO THE ORDER OF\n\nTa. Pardi, Dist. Valsad, Fasteners For Retail, Inc. Fasteners For Retail, Inc.\nUdwada \u2014 396185, India Siffron Siffron\n\nBill To Ship To\n\n8181 Darrow Road , Twinsberg 8181 Darrow Road , Twinsberg\nPAN No.:AAACI1381Q OHIO 44087 OHIO 44087\n\nUSA USA\nGST No.:24AAACJ1381Q1ZC\n\nIE Code:0389061221\nAD Code:6360062 Country Of Origin: INDIA\nCountry Of Final Destination: USA\nName of Commodity: Container No.: HLBU 240474 7 Terms of Shipment: FOB Nhavasheva\nArticles of Plastics RFid Seal No.: PACKO2754271 Payment Terms: Net Due In 60 Days, 2% Net 10 days.\nShipping Line Seal No. : HLK1532397 Port Of Reciept:.\n\nEnd User Code: GNX 200 Port of Loading- Nhavasheva, Mumbai\n\nPre-Carrier By- S\n\nUnit of No & Total Qty. of Rate per\nCustomer PO No. Customer Part Number Description of Goods | HSN Code | Description of \u00a5- unit of\n\nMeasurement\nPackages measure\n\nTotal\nAmount\n\nPZ Kwik-Set Track\nAssembly; 16\"D E Corrugated\nSpring; Black Boxes\n\nSUPPLY MEANT FOR EXPORT UNDER LETTER OF UNDERTAKING WITHOUT PAYMENT OF\nINTEGRATED TAX\nExport Made Under LUT vide ARN No. AD240425000217N\n\nAmount In Words:\n\n(USD): Forty Six Thousand Nine Hundred Seventy Nine & cents Forty Nine Only.\n\nBank Details For Jyoti World Private Limited\n\nBank Name: AXIS BANK LTD.\nIFSC Code: UTIBO00062\nBank Branch Code:000062\n\nA/C Number:917030028517810\nDesignation: Manager Account & Finance\n\nCertified that the Particular given above are true and Correct. Mr Manthan Desai\nAuthorised Signatory\n\n",
+        "_parsed_lines": [
+            {
+                "filename": "JYOTI KHEX-200234-2025.pdf",
+                "invoice_number": "",
+                "invoice_date": "",
+                "material_code": null,
+                "hs_code": null,
+                "qty": null,
+                "qty_uom": null,
+                "currency": null,
+                "amount_detected": 5.0,
+                "amount_inr": null,
+                "amount_usd": null,
+                "confidence": 0.4,
+                "raw_line": "Porter: crate lice Invoice No.: KHEX-200234-2025"
+            },
+            {
+                "filename": "JYOTI KHEX-200234-2025.pdf",
+                "invoice_number": "",
+                "invoice_date": "",
+                "material_code": null,
+                "hs_code": null,
+                "qty": null,
+                "qty_uom": null,
+                "currency": null,
+                "amount_detected": 185.0,
+                "amount_inr": null,
+                "amount_usd": null,
+                "confidence": 0.4,
+                "raw_line": "Udwada \u2014 396185, India Siffron Siffron"
+            },
+            {
+                "filename": "JYOTI KHEX-200234-2025.pdf",
+                "invoice_number": "",
+                "invoice_date": "",
+                "material_code": "8181",
+                "hs_code": null,
+                "qty": 8181.0,
+                "qty_uom": null,
+                "currency": null,
+                "amount_detected": 1.0,
+                "amount_inr": null,
+                "amount_usd": null,
+                "confidence": 0.7,
+                "raw_line": "8181 Darrow Road , Twinsberg 8181 Darrow Road , Twinsberg"
+            },
+            {
+                "filename": "JYOTI KHEX-200234-2025.pdf",
+                "invoice_number": "",
+                "invoice_date": "",
+                "material_code": "44087",
+                "hs_code": null,
+                "qty": 44087.0,
+                "qty_uom": null,
+                "currency": null,
+                "amount_detected": 87.0,
+                "amount_inr": null,
+                "amount_usd": null,
+                "confidence": 0.7,
+                "raw_line": "PAN No.:AAACI1381Q OHIO 44087 OHIO 44087"
+            },
+            {
+                "filename": "JYOTI KHEX-200234-2025.pdf",
+                "invoice_number": "",
+                "invoice_date": "",
+                "material_code": null,
+                "hs_code": null,
+                "qty": null,
+                "qty_uom": null,
+                "currency": null,
+                "amount_detected": 2.0,
+                "amount_inr": null,
+                "amount_usd": null,
+                "confidence": 0.4,
+                "raw_line": "AD Code:6360062 Country Of Origin: INDIA"
+            },
+            {
+                "filename": "JYOTI KHEX-200234-2025.pdf",
+                "invoice_number": "",
+                "invoice_date": "",
+                "material_code": "240474",
+                "hs_code": null,
+                "qty": 7.0,
+                "qty_uom": null,
+                "currency": null,
+                "amount_detected": 7.0,
+                "amount_inr": null,
+                "amount_usd": null,
+                "confidence": 0.7,
+                "raw_line": "Name of Commodity: Container No.: HLBU 240474 7 Terms of Shipment: FOB Nhavasheva"
+            },
+            {
+                "filename": "JYOTI KHEX-200234-2025.pdf",
+                "invoice_number": "",
+                "invoice_date": "",
+                "material_code": "PACKO2754271",
+                "hs_code": null,
+                "qty": null,
+                "qty_uom": null,
+                "currency": null,
+                "amount_detected": 10.0,
+                "amount_inr": null,
+                "amount_usd": null,
+                "confidence": 0.5,
+                "raw_line": "Articles of Plastics RFid Seal No.: PACKO2754271 Payment Terms: Net Due In 60 Days, 2% Net 10 days."
+            },
+            {
+                "filename": "JYOTI KHEX-200234-2025.pdf",
+                "invoice_number": "",
+                "invoice_date": "",
+                "material_code": "HLK1532397",
+                "hs_code": null,
+                "qty": null,
+                "qty_uom": null,
+                "currency": null,
+                "amount_detected": 7.0,
+                "amount_inr": null,
+                "amount_usd": null,
+                "confidence": 0.5,
+                "raw_line": "Shipping Line Seal No. : HLK1532397 Port Of Reciept:."
+            },
+            {
+                "filename": "JYOTI KHEX-200234-2025.pdf",
+                "invoice_number": "",
+                "invoice_date": "",
+                "material_code": "AD240425000217N",
+                "hs_code": null,
+                "qty": null,
+                "qty_uom": null,
+                "currency": null,
+                "amount_detected": 217.0,
+                "amount_inr": null,
+                "amount_usd": null,
+                "confidence": 0.5,
+                "raw_line": "Export Made Under LUT vide ARN No. AD240425000217N"
+            },
+            {
+                "filename": "JYOTI KHEX-200234-2025.pdf",
+                "invoice_number": "",
+                "invoice_date": "",
+                "material_code": "UTIBO00062",
+                "hs_code": null,
+                "qty": null,
+                "qty_uom": null,
+                "currency": null,
+                "amount_detected": 62.0,
+                "amount_inr": null,
+                "amount_usd": null,
+                "confidence": 0.5,
+                "raw_line": "IFSC Code: UTIBO00062"
+            },
+            {
+                "filename": "JYOTI KHEX-200234-2025.pdf",
+                "invoice_number": "",
+                "invoice_date": "",
+                "material_code": null,
+                "hs_code": null,
+                "qty": null,
+                "qty_uom": null,
+                "currency": null,
+                "amount_detected": 62.0,
+                "amount_inr": null,
+                "amount_usd": null,
+                "confidence": 0.4,
+                "raw_line": "Bank Branch Code:000062"
+            }
+        ],
+        "_discarded_lines": [
+            {
+                "raw_line": "(Formerly Known As Jyoti Plastic Works Pvt. Ltd.) Date: 06.08.2025",
+                "reason": "no_match"
+            },
+            {
+                "raw_line": "Survey No.178/1 & 178/1/Paiky-1,",
+                "reason": "no_match"
+            },
+            {
+                "raw_line": "GST No.:24AAACJ1381Q1ZC",
+                "reason": "no_match"
+            },
+            {
+                "raw_line": "IE Code:0389061221",
+                "reason": "no_match"
+            },
+            {
+                "raw_line": "End User Code: GNX 200 Port of Loading- Nhavasheva, Mumbai",
+                "reason": "no_match"
+            },
+            {
+                "raw_line": "Assembly; 16\"D E Corrugated",
+                "reason": "no_match"
+            },
+            {
+                "raw_line": "A/C Number:917030028517810",
+                "reason": "no_match"
+            }
+        ]
+    },
+    {
+        "invoice_number": "",
+        "date": "",
+        "company": "",
+        "amount": "",
+        "items": [],
+        "page_number": 2,
+        "filename": "JYOTI KHEX-200234-2025.pdf",
+        "raw_text": "PACKING LIST\n\nExporter: Invoice No.: KHEX-200234-2025\n\nJyoti World Private Limited\n(Formerly Known As Jyoti Plastic Works Pvt. Ltd.) Date: 06.08.2025\nSurvey No.178/1 & 178/1/Paiky-1,\nBhramdev Industrial Park, Bill To Ship To\nPardi Paria Road, Village - Khadki, TO THE ORDER OF TO THE ORDER OF\nTa. Pardi, Dist. Valsad, Fasteners For Retail, Inc. Fasteners For Retail, Inc.\nUdwada \u2014 396185, India Siffron Siffron\n8181 Darrow Road , Twinsberg 8181 Darrow Road , Twinsberg\nPAN No.:AAACJ1381Q OHIO 44087 OHIO 44087\n\nGST No.:24AAACJ1381Q1ZC USA USA\n\nIE Code:0389061221\nAD Code:6360062 Country Of Origin: INDIA\nCountry Of Final Destination: USA\n\nName of Commodity: Container No.: HLBU 240474 7 Terms of Shipment: FOB Nhavasheva\nArticles of Plastics RFid Seal No.: PACKO2754271 Payment Terms: Net Due In 60 Days, 2% Net 10 days.\nShipping Line Seal No. : HLK1532397 Port Of Reciept:.\n\nEnd User Code: GNX 200\nnd User Code Port of Loading- Nhavasheva, Mumbai\n\nPre-Carrier By- Sea .\nPort of Discharge- CLEVELAND\n\ncoe No. & Description Of Total Pallet\nDescription of Goods Qty. Per Box Qty. Gross/Net Wt.\nPackages .\n\nPZ Kwik-Set Track Assembly; 39269099 3639 Corrugated | 3639 Box / 50 Nos 181950 8106.00 Kg. 10472.00 Kg.\n16\"D E Spring; Black Boxes\n\n3639 Boxes 8106.00 Kg 10472.00 Kg\n\nNet Weight : 8106.00 Kg.\nGross Weight : 10472.00 Kg.\n\nBank Details For Jyoti World Private Limited\nBank Name: AXIS BANK LTD.\nIFSC Code: UTIBO00062\nBank Branch Code:000062\nA/C Number:917030028517810\nDesignation: Manager Account & Finance\nCertified that the Particular given above are true and Correct. Mr Manthan Desai\nAuthorised Signatory\n\n",
+        "_parsed_lines": [
+            {
+                "filename": "JYOTI KHEX-200234-2025.pdf",
+                "invoice_number": "",
+                "invoice_date": "",
+                "product_name": "PZ Kwik-Set Track Assembly",
+                "hs_code": "39269099",
+                "qty": 3639.0,
+                "qty_uom": "Box",
+                "total_kg_netto": 8106.0,
+                "currency": "USD",
+                "confidence": 0.8,
+                "raw_line": "PZ Kwik-Set Track Assembly; 39269099 3639 Corrugated | 3639 Box / 50 Nos 181950 8106.00 Kg. 10472.00 Kg."
+            }
+        ],
+        "_discarded_lines": [
+            {
+                "raw_line": "(Formerly Known As Jyoti Plastic Works Pvt. Ltd.) Date: 06.08.2025",
+                "reason": "no_match"
+            },
+            {
+                "raw_line": "Survey No.178/1 & 178/1/Paiky-1,",
+                "reason": "no_match"
+            },
+            {
+                "raw_line": "GST No.:24AAACJ1381Q1ZC",
+                "reason": "no_match"
+            },
+            {
+                "raw_line": "IE Code:0389061221",
+                "reason": "no_match"
+            },
+            {
+                "raw_line": "End User Code: GNX 200 Port of Loading- Nhavasheva, Mumbai",
+                "reason": "no_match"
+            },
+            {
+                "raw_line": "Assembly; 16\"D E Corrugated",
+                "reason": "no_match"
+            },
+            {
+                "raw_line": "A/C Number:917030028517810",
+                "reason": "no_match"
+            }
+        ]
+    }
+]
