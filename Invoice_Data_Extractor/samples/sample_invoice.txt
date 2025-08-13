@@ -1,0 +1,30 @@
+TECH SOLUTIONS INC
+123 Business Ave
+Tech City, TC 12345
+Phone: (555) 123-4567
+Email: billing@techsolutions.com
+
+INVOICE
+
+Invoice Number: INV-2024-0156
+Invoice Date: January 15, 2024
+Due Date: February 14, 2024
+
+Bill To:
+ACME Corporation
+456 Client Street
+Business Town, BT 67890
+
+Description                    Qty    Unit Price    Total
+Software Development Services   40     $125.00     $5,000.00
+Technical Consultation          8      $150.00     $1,200.00
+System Maintenance             1      $500.00       $500.00
+
+                              Subtotal:           $6,700.00
+                              Tax (8.5%):          $569.50
+                              TOTAL:             $7,269.50
+
+Payment Terms: Net 30 days
+Payment Method: Check or Wire Transfer
+
+Thank you for your business!
